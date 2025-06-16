@@ -4,9 +4,28 @@
 
 A visual tool for displaying the utilization of each CPU core.
 
-每个工人小人代表一个 CPU 核心，他们跳舞的速度与对应核心的利用率成正比。利用率越高，跳得越快，直观生动地反映了系统当前的运行负载情况。            
+每个工人小人代表一个 CPU 核心，他们跳舞的速度与对应核心的利用率成正比。利用率越高，跳得越快，直观地反映了系统当前的运行负载情况。            
 
 Each worker character represents a CPU core, and their dancing speed is directly proportional to the core's usage. The higher the utilization, the faster they dance—offering an intuitive and lively visualization of your system's workload.
 
 ![CPU Workers](CPU-Workers.gif)
+
+本软件为专有软件，仅供个人或内部使用。
+
+您可以：
+- 下载并使用本软件进行个人或内部用途。
+
+您不得：
+- 修改、反编译、逆向工程本软件；
+- 在未获得授权的情况下传播或用于商业用途。
+
+This software is proprietary and is provided as-is for personal or internal use only.
+All rights reserved.
+
+You may:
+- Download and use the software for personal or internal use.
+
+You may not:
+- Modify, decompile, or reverse-engineer the software.
+- Redistribute the software or use it for commercial purposes without explicit permission.
 
