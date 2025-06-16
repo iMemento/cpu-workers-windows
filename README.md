@@ -1,8 +1,8 @@
 # cpu-workers-windows
-[下载地址](https://github.com/iMemento/cpu-workers-windows/releases)
+[下载地址](https://github.com/iMemento/cpu-workers-windows/releases)          
 做这个小工具的初衷是我最近换了24核的新电脑，我现在每天都在看着这几个小人跳舞发呆。      
 
-[Download](https://github.com/iMemento/cpu-workers-windows/releases)
+[Download](https://github.com/iMemento/cpu-workers-windows/releases)          
 The original intention of making this little tool is that I recently changed to a new 24-core computer, and now I am staring at these little people dancing every day.      
 
 本软件是一款可视化展示 CPU 各核心利用率的工具。                
