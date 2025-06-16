@@ -8,5 +8,5 @@ A visual tool for displaying the utilization of each CPU core.
 
 Each worker character represents a CPU core, and their dancing speed is directly proportional to the core's usage. The higher the utilization, the faster they dance—offering an intuitive and lively visualization of your system's workload.
 
-![CPU Workers](CPU-workers.gif)
+![CPU Workers](CPU-Workers.gif)
 
